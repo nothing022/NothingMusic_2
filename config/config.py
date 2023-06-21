@@ -46,9 +46,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/ROMEO_OP")
+    "SUPPORT_CHANNEL", "https://t.me/NothingBotz")
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/ROMEOBOT_OP")
+    "SUPPORT_GROUP", "https://t.me/NothingBots")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -106,11 +106,11 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/6175117dc51c86314e36c.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/ec08a28e5134ff4df78be.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/a9e2db85948e2bc8f4154.mp4",
+    "https://te.legra.ph/file/bf005bc6632ac54f061d1.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
