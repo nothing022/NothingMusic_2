@@ -10,16 +10,6 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://dashboard.heroku.com/new?template=https://github.com/nothing022/NothingMusic_2)
 
-
-
-### 🥀 𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐞𝐫𝐯𝐞𝐫 (𝐇𝐚𝐜𝐤𝐞𝐫-𝐑𝐉) 💞...
-
-[𓊈𝐃𝐞𝐩𝐥𝐨𝐲 𝐎𝐧 𝐆𝐢𝐭𝐇𝐮𝐛𓊉](https://github.com/Romeo-RJ/Hacker-RJ/fork)
-
-
-
-
-
 ### 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐅𝐫𝐨𝐦 𝐇𝐞𝐫𝐞
 
 [𓊈 𝐒𝐭𝐫𝐢𝐧𝐠  𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𓊉](https://t.me/Rjssgbot)
